@@ -1,0 +1,508 @@
+Uri: https://fonts.googleapis.com/css2?family=quicksand:wght@100;400;500;600;700;800&family=Open+Sans:wght@300;400;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/quicksand/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\quicksand\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\quicksand\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\quicksand\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\quicksand\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\quicksand\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\quicksand\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://www.greendealtrading.com/
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=cust&page=aboutus
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=faq
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=forgot_password
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=home
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=login
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=news
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=news&id=3
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=news&id=4
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=news&id=5
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=rules
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=signup
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/?a=support
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.greendealtrading.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.greendealtrading.com/css/fontawesome-all.css
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\css\fontawesome-all.css
+Content Type: text/css
+
+Uri: https://www.greendealtrading.com/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.greendealtrading.com/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.greendealtrading.com/css/style-ready.css
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\css\style-ready.css
+Content Type: text/css
+
+Uri: https://www.greendealtrading.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.greendealtrading.com/fonts/Quicksand.woff
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\Quicksand.woff
+Content Type: font/woff
+
+Uri: https://www.greendealtrading.com/fonts/Quicksand.woff2
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\Quicksand.woff2
+Content Type: font/woff2
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.greendealtrading.com/fonts/fontawesome/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.greendealtrading.com/fonts/Quicksand.woff
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\Quicksand.woff
+Content Type: font/woff
+
+Uri: https://www.greendealtrading.com/fonts/Quicksand.woff2
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\Quicksand.woff2
+Content Type: font/woff2
+
+Uri: https://www.greendealtrading.com/fonts/MyriadPro-Regular.woff
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\MyriadPro-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.greendealtrading.com/fonts/MyriadPro-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\fonts\MyriadPro-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.greendealtrading.com/images/1001.gif
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\1001.gif
+Content Type: image/gif
+
+Uri: https://www.greendealtrading.com/images/18.gif
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\18.gif
+Content Type: image/gif
+
+Uri: https://www.greendealtrading.com/images/48.gif
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\48.gif
+Content Type: image/gif
+
+Uri: https://www.greendealtrading.com/images/68.gif
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\68.gif
+Content Type: image/gif
+
+Uri: https://www.greendealtrading.com/images/69.gif
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\69.gif
+Content Type: image/gif
+
+Uri: https://www.greendealtrading.com/images/77.gif
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\77.gif
+Content Type: image/gif
+
+Uri: https://www.greendealtrading.com/images/abt-us.jpg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\abt-us.jpg
+Content Type: image/jpeg
+
+Uri: https://www.greendealtrading.com/images/accordian_arrow_down.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\accordian_arrow_down.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/accordian_arrow_up.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\accordian_arrow_up.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/arrow-1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\arrow-1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/arrow-2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\arrow-2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/banner-after.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\banner-after.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/banner-img.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\banner-img.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/bg-dotted.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\bg-dotted.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/bg1.jpg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.greendealtrading.com/images/bg2.jpg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.greendealtrading.com/images/bg3.jpg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.greendealtrading.com/images/certify-ic.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\certify-ic.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/certify.jpg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\certify.jpg
+Content Type: image/jpeg
+
+Uri: https://www.greendealtrading.com/images/choose-ic1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\choose-ic1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/choose-ic2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\choose-ic2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/choose-ic3.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\choose-ic3.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/choose-ic4.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\choose-ic4.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/crypto-coins.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\crypto-coins.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/earningsm.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\earningsm.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/head-1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\head-1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/head-2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\head-2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/hex-1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\hex-1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/ic-1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\ic-1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/ic-2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\ic-2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/ic-3.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\ic-3.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/ic-4.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\ic-4.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/ic-5.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\ic-5.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/ic-6.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\ic-6.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/ic-8.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\ic-8.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/img1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\img1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/inner-bg1.jpg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inner-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.greendealtrading.com/images/inner-bg2.jpg
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inner-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.greendealtrading.com/images/inv-ic1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inv-ic1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/inv-ic2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inv-ic2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/inv-ic3.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inv-ic3.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/inv-ic4.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inv-ic4.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/inv-ic5.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inv-ic5.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/inv-ic6.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\inv-ic6.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/level-Level A.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\level-Level A.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/level-Level B.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\level-Level B.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/level-Level C.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\level-Level C.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/level-Level D.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\level-Level D.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/level-Level E.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\level-Level E.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/logo-form.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\logo-form.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/logo.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\logo.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/logo2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\logo2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/makeadeposit.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\makeadeposit.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/payment-ic1.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\payment-ic1.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/payment-ic2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\payment-ic2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/payment-ic3.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\payment-ic3.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/payment-ic4.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\payment-ic4.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/payment-ic5.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\payment-ic5.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/plan-after.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\plan-after.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/profit-arrow.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\profit-arrow.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/registered.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\registered.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/select-drop.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\select-drop.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/stats.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\stats.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/vdo-after.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\vdo-after.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/weaccept2.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\weaccept2.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/images/withdrawalll.png
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\images\withdrawalll.png
+Content Type: image/png
+
+Uri: https://www.greendealtrading.com/js/bootbox.min.js
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\js\bootbox.min.js
+Content Type: application/javascript
+
+Uri: https://www.greendealtrading.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.greendealtrading.com/js/jquery-2.1.4.min.js
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\js\jquery-2.1.4.min.js
+Content Type: application/javascript
+
+Uri: https://www.greendealtrading.com/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.greendealtrading.com/js/script.js
+File Name: C:\Downloaded Web Sites\www.greendealtrading.com\js\script.js
+Content Type: application/javascript
+
